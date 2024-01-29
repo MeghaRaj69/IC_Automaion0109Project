@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: IC_Automaion0109Project
+  gitServerName: ICAccount0102
+  gitUrl: https://github.com/MeghaRaj69/IC_Automaion0109Project
+  gitUsername: MeghaRaj69
+  gitBranch: main
